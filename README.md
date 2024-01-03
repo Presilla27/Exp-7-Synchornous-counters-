@@ -93,6 +93,8 @@ DOWN COUNTER
 ### TIMING DIGRAMS FOR COUNTER  
 
 UP COUNTER :
+
+
 ![image](https://github.com/Presilla27/Exp-7-Synchornous-counters-/assets/155127632/a903618e-dbf3-4b48-9290-eeb46fb56764)
 
 DOWN COUNTER :
